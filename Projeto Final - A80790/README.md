@@ -18,7 +18,7 @@ Gráfico com os confirmados e os mortos, de acordo com os países com mais confi
 
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
-![Confirmados vs mortos pie](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Confirmados_mortos_pie.png)
+![Confirmados vs mortos pie](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Confirmados_mortos_pie.PNG)
 
 ![Confirmados vs mortos](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/TotalConfirmados.png)
 
