@@ -10,13 +10,14 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função para apenas contar os países com mais de 100 casos.
 __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a notação científica.__
 
-![Gráfico Países](Figuras/Paises_pie.png)<!-- .element height="50%" width="50%" -->
 
-<img src="Figuras/Paises_pie.png" width="30">
+<img src="Figuras/Paises_pie.png" width="50">
 
 Gráfico com os confirmados e os mortos, de acordo com os países com mais confirmados.
 
 ![Figura_Paises](Figuras/Paises_BarraH.png)
+
+<img src="Figuras/Paises_BarraH.png" width="50">
 
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
