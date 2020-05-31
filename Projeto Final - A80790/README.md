@@ -4,6 +4,7 @@ Visualização de casos de COVID-19 através de gráficos e mapas
 
 Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns países
 
+<<<<<<< HEAD
 Os datasets utilizados foram retirados dos repositórios:
 ->https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
@@ -60,3 +61,6 @@ Gráficos com o total de confirmados vs mortos
 
 
 
+=======
+![Figura_Paises](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Paises_BarraH.png)
+>>>>>>> bc806fb683f5859eb9cc0734050840b564c71c96
