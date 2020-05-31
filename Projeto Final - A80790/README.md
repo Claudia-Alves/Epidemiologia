@@ -4,11 +4,6 @@ Visualização de casos de COVID-19 através de gráficos e mapas
 
 Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns países
 
-<<<<<<< HEAD
-Os datasets utilizados foram retirados dos repositórios:
-->https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
-
-->https://github.com/open-covid-19/data e baseado em alguns dos exemplos apresentados neste.
 
 ## Agrupamento dos dados por países
 
