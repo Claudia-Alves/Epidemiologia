@@ -10,7 +10,7 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função para apenas contar os países com mais de 100 casos.
 __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a notação científica.__
 
-![Gráfico Países](Figuras/Paises_pie.png){:height="50%" width="50%"}
+![Gráfico Países](Figuras/Paises_pie.png =250x250)
 
 Gráfico com os confirmados e os mortos, de acordo com os países com mais confirmados.
 
@@ -26,11 +26,11 @@ Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos 
 
 Tendo em conta alguns dados de tempo médio até ser dada a alta a casos graves e críticos, obteve-se um gráfico com o Tempo médio de hospitalização para cada um deles. 
 
-![TempoHGraves vs criticos](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/TempoHospitalização.png)
+![TempoHGraves vs criticos](Figuras/TempoHospitalização.png)
 
 Fez-se um gráfico relativo aos casos de COVID-19 por três categorias, leves, graves e críticos. 
 
-![CasosLevesGravesCriticos](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/CasosLevesGravesCriticos.png)
+![CasosLevesGravesCriticos](Figuras/CasosLevesGravesCriticos.png)
 
 
 ## Mapas mundo
@@ -39,11 +39,11 @@ Utilizaram-se os dados atuais de mortos e recuperados nos diferentes países par
 
 #### Taxa de Mortalidade 
 
-![TaxaMortalidade](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/TaxaMortalidadeMundo.png)
+![TaxaMortalidade](Figuras/TaxaMortalidadeMundo.png)
 
 #### Taxa de Recuperação 
 
-![TaxaRecuperados](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/TaxaRecuperadosMundo.png)
+![TaxaRecuperados](Figuras/TaxaRecuperadosMundo.png)
 
 
 ## Estatísticas de top 10
@@ -53,93 +53,93 @@ Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado,
 ### Top 10 países 
 
 #### Com mais casos confirmados
-![CasosConfirmados](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10paisesCasos.png)
+![CasosConfirmados](Figuras/Top10paisesCasos.png)
 
 #### Com mais mortos
-![Mortos](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10paisesMortes.png)
+![Mortos](Figuras/Top10paisesMortes.png)
 
 #### Com mais recuperados
-![Recuperados](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10paisesRecuperados.png)
+![Recuperados](Figuras/Top10paisesRecuperados.png)
 
 #### Com mais casos hospitalizados
-![CasosHospitalizados](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10paisesHospitalizados.png)
+![CasosHospitalizados](Figuras/Top10paisesHospitalizados.png)
 
 #### Com mais casos nos cuidados intensivos
-![CasosUCI](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10paisesNosUCI.png)
+![CasosUCI](Figuras/Top10paisesNosUCI.png)
 
 #### Com mais testes
-![Testes](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10paisesTestes.png)
+![Testes](Figuras/Top10paisesTestes.png)
 
 ### Top 10 regiões na Austrália
 
 #### Regiões com mais casos confirmados
-![CasosConfirmadosA](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10RegioesAustraliaCasos.png)
+![CasosConfirmadosA](Figuras/Top10RegioesAustraliaCasos.png)
 
 #### Regiões com mais recuperados
-![RecuperadosA](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10RegioesAustraliaRecuperados.png)
+![RecuperadosA](Figuras/Top10RegioesAustraliaRecuperados.png)
 
 #### Regiões com mais mortos
-![MortosA](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10RegioesAustraliaMortos.png)
+![MortosA](Figuras/Top10RegioesAustraliaMortos.png)
 
 #### Regiões com mais testes
-![TestesA](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10RegioesAustraliaTestados.png)
+![TestesA](Figuras/Top10RegioesAustraliaTestados.png)
 
 #### Regiões com mais casos hospitalizados
-![HospitalizadosA](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Top10RegioesAustraliaHospitalizados.png)
+![HospitalizadosA](Figuras/Top10RegioesAustraliaHospitalizados.png)
 
 
 ## Casos em Espanha
 
 Total de confirmados e mortos em Espanha por data.
 
-![Espanha](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Espanha_total.png)
+![Espanha](Figuras/Espanha_total.png)
 
 ### Casos numa região de Espanha
 
 Gráfico com os confirmados e mortos para as Asturias, uma das sub-regiões de Espanha, até a data mais atual, de notar que os dados para as sub-regiões não são tão atuais como os dados no país todo, ou seja, enquanto que para Espanha no geral se obteve os dados até ao dis 29 de Maio, para a sub-região o mais recente é 21 de maio.
 
-![Asturias](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/AsturiasConfirmados.png)
+![Asturias](Figuras/AsturiasConfirmados.png)
 
 
 ## Casos em Itália
 
 ### Total de casos Confirmados e mortos 
 
-![Itália](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Italia_total.png)
+![Itália](Figuras/Italia_total.png)
 
 ### Heurística - modelagem exponencial
 
 Fez-se uso de uma heurística já existente e a encontrada é do dia 17 de março, portanto,  os gráficos seguintes são baseados nessa data.
 
-![ItáliaH](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Italia_heuristica.png)
+![ItáliaH](Figuras/Italia_heuristica.png)
 
 ### Estimativa de 3 dias vs dados reais
 
-![ItáliaEst](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/ItaliaEstimativa3dias.png)
+![ItáliaEst](Figuras/ItaliaEstimativa3dias.png)
 
 ### Estimar 3 dias futuros
 
-![ItáliaFut](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/ItaliaFuturo3dias.png)
+![ItáliaFut](Figuras/ItaliaFuturo3dias.png)
 
 
 ## Casos na Corea do Sul
 
-![CoreaS](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/CoreaSulTotal.png)
+![CoreaS](Figuras/CoreaSulTotal.png)
 
 ### Heurística - modelagem exponencial
 
 Fez-se uso de uma heurística já existente e a encontrada é do dia 18 de março, portanto,  os gráficos seguintes são baseados nessa data.
 
-![CoreaSH](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/CoreaSHeuristicaGomperstz.png)
+![CoreaSH](Figuras/CoreaSHeuristicaGomperstz.png)
 
 
 ### Estimativa de 3 dias vs dados reais
 
-![CoreaSEst](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/CoreaSEstimativa.png)
+![CoreaSEst](Figuras/CoreaSEstimativa.png)
 
 ### Estimar 3 dias futuros
 
-![CoreaSFut](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/CoreaSFuturo3Dias.png)
+![CoreaSFut](Figuras/CoreaSFuturo3Dias.png)
 
 
 
