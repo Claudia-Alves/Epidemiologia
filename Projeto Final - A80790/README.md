@@ -11,13 +11,11 @@ Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função
 __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a notação científica.__
 
 
-<img src="Figuras/Paises_pie.png" width="150">
+<img src="Figuras/Paises_pie.png" align="center" width="300">
 
 Gráfico com os confirmados e os mortos, de acordo com os países com mais confirmados.
 
-![Figura_Paises](Figuras/Paises_BarraH.png)
-
-<img src="Figuras/Paises_BarraH.png" width="150">
+<img src="Figuras/Paises_BarraH.png" align="center" width="300">
 
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
