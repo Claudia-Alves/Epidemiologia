@@ -60,7 +60,3 @@ Gráficos com o total de confirmados vs mortos
 
 
 
-
-=======
-![Figura_Paises](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Paises_BarraH.png)
->>>>>>> bc806fb683f5859eb9cc0734050840b564c71c96
