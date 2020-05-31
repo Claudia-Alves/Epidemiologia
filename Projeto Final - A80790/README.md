@@ -12,6 +12,8 @@ __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a no
 
 ![Gráfico Países](Figuras/Paises_pie.png)<!-- .element height="50%" width="50%" -->
 
+<img src="Figuras/Paises_pie.png" width="30">
+
 Gráfico com os confirmados e os mortos, de acordo com os países com mais confirmados.
 
 ![Figura_Paises](Figuras/Paises_BarraH.png)
