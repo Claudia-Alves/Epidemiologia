@@ -10,17 +10,17 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função para apenas contar os países com mais de 100 casos.
 __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a notação científica.__
 
-![Gráfico Países](Figuras/Paises_pie.png | width=100)
+![Gráfico Países](Figuras/Paises_pie.png){:height="50%" width="50%"}
 
 Gráfico com os confirmados e os mortos, de acordo com os países com mais confirmados.
 
-![Figura_Paises](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Paises_BarraH.png)
+![Figura_Paises](Figuras/Paises_BarraH.png)
 
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
-![Confirmados vs mortos pie](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Confirmados_mortos_pie.PNG)
+![Confirmados vs mortos pie](Confirmados_mortos_pie.PNG)
 
-![Confirmados vs mortos](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/TotalConfirmados.png)
+![Confirmados vs mortos](Figuras/TotalConfirmados.png)
 
 ### Casos por categoria
 
