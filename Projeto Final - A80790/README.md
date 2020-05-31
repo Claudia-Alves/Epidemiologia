@@ -18,7 +18,7 @@ Gráfico com os confirmados e os mortos, de acordo com os países com mais confi
 
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
-![Confirmados vs mortos pie](Confirmados_mortos_pie.PNG)
+![Confirmados vs mortos pie](Confirmados_mortos_pie.png)
 
 ![Confirmados vs mortos](Figuras/TotalConfirmados.png)
 
