@@ -21,7 +21,7 @@ Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos 
 
 ![Confirmados vs mortos pie](Figuras/Confirmados_mortos_pie.png)
 
-![Confirmados vs mortos](Figuras/TotalConfirmados.png)
+![Confirmados vs mortos](Figuras/Total_Confirmados.png)
 
 ### Casos por categoria
 
