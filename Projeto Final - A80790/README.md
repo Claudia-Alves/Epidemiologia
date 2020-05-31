@@ -12,8 +12,6 @@ __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a no
 
 ![Gráfico Países](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Paises_pie.png)
 
-<img src="https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Paises_pie.png" height="24" width="48">
-
 Gráfico com os confirmados e os mortos, de acordo com os países com mais confirmados.
 
 ![Figura_Paises](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Paises_BarraH.png)
