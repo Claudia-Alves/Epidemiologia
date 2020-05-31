@@ -7,7 +7,7 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 
 ## Agrupamento dos dados por países
 
-Obtiveram-se alguns gráficos com os casos por países. 
+Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função para apenas contar os países com mais de 100 casos.
 __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a notação científica.__
 
 ![Gráfico Países](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras/Paises_pie.png)
