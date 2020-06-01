@@ -62,8 +62,8 @@ Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado,
 
 ### Top 10 países 
 
-| #### Com mais casos confirmados |#### Com mais mortos|
-|![CasosConfirmados](Figuras/Top10paisesCasos.png) | ![Mortos](Figuras/Top10paisesMortes.png)| 
+| Com mais casos confirmados |Com mais mortos|
+|:--![CasosConfirmados](Figuras/Top10paisesCasos.png) --:| :--![Mortos](Figuras/Top10paisesMortes.png)--:| 
 
 #### Com mais recuperados
 ![Recuperados](Figuras/Top10paisesRecuperados.png)
