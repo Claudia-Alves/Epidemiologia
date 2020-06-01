@@ -11,7 +11,7 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 
 ## Agrupamento dos dados por países
 
-Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função para apenas contar os países com mais de 100 casos.
+Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função para apenas contar os países com *mais de 100* casos.
 __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a notação científica.__
 
 
@@ -21,25 +21,34 @@ __*NOTA*: em alguns gráficos, como os valores são muito elevados, aparece a no
 
 Gráfico com os confirmados e os mortos, de acordo com os países com mais confirmados.
 <p align="center">
-<img src="Figuras/Paises_BarraH.png" align="center" width="750">
+<img src="Figuras/Paises_BarraH.png"  width="750">
 </p>
+
+Em ambos os gráficos, é possível verificar que o país com mais casos é os Estados Unidos da América, seguido de Itália, Espanha e França.
+
+
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
 <p align="center">
-<img src="Figuras/Confirmados_mortos_pie.png" align="center" width="500">
+<img src="Figuras/Confirmados_mortos_pie.png"  width="500">
 </p>
 
 ![Confirmados vs mortos](Figuras/Total_Confirmados.png)
 
 ### Casos por categoria
 
-Tendo em conta alguns dados de tempo médio até ser dada a alta a casos graves e críticos, obteve-se um gráfico com o Tempo médio de hospitalização para cada um deles. 
+Tendo em conta alguns dados de tempo médio até ser dada a alta a casos graves e críticos, obteve-se um gráfico com o Tempo médio de hospitalização para cada um deles. Observando a reta, dá aproximadamente um tempo médio de hospitalização 12 dias para casos graves e de 15 dias para casos hospitalizados.
 
-![TempoHGraves vs criticos](Figuras/TempoHospitalização.png)
+<p align="center">
+<img src="Figuras/TempoHospitalização.png" width="500">
+</p>
 
 Fez-se um gráfico relativo aos casos de COVID-19 por três categorias, leves, graves e críticos. 
+Observando-o, verifica-se que, felizmente, a maioria dos casos são casos leves.
 
-![CasosLevesGravesCriticos](Figuras/CasosLevesGravesCriticos.png)
+<p align="center">
+<img src="Figuras/CasosLevesGravesCriticos.png" width="500">
+</p>
 
 
 ## Mapas mundo
@@ -51,9 +60,13 @@ Utilizaram-se os dados atuais de mortos e recuperados nos diferentes países par
 
 ![TaxaMortalidade](Figuras/TaxaMortalidadeMundo.png)
 
+Verifica-se que a Austrália e a Etiópia são dois dos países com menor taxe de mortalidade devido ao COVID-19.
+
 #### Taxa de Recuperação 
 
 ![TaxaRecuperados](Figuras/TaxaRecuperadosMundo.png)
+
+De notar, que a Austrália é um dos países com maior taxa de recuperação e menor taxa de mortalidade.
 
 
 ## Estatísticas de top 10
@@ -99,19 +112,31 @@ Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado,
 ### Top 10 regiões na Austrália
 
 #### Regiões com mais casos confirmados
-![CasosConfirmadosA](Figuras/Top10RegioesAustraliaCasos.png)
+<p align="center">
+ <img src="Figuras/Top10RegioesAustraliaCasos.png" width="500"> 
+</p>
+
 
 #### Regiões com mais recuperados
-![RecuperadosA](Figuras/Top10RegioesAustraliaRecuperados.png)
+<p align="center">
+ <img src="Figuras/Top10RegioesAustraliaRecuperados.png" width="500"> 
+</p>
+
 
 #### Regiões com mais mortos
-![MortosA](Figuras/Top10RegioesAustraliaMortos.png)
+<p align="center">
+ <img src="Figuras/Top10RegioesAustraliaMortos.png" width="500"> 
+</p>
 
 #### Regiões com mais testes
-![TestesA](Figuras/Top10RegioesAustraliaTestados.png)
+<p align="center">
+ <img src="Figuras/Top10RegioesAustraliaTestados.png" width="500"> 
+</p>
 
 #### Regiões com mais casos hospitalizados
-![HospitalizadosA](Figuras/Top10RegioesAustraliaHospitalizados.png)
+<p align="center">
+ <img src="Figuras/Top10RegioesAustraliaHospitalizados.png" width="500"> 
+</p>
 
 
 ## Casos em Espanha
