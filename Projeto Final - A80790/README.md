@@ -65,35 +65,35 @@ Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado,
 #### Com mais casos confirmados
 
 <p align="center">
- <img src="Figuras/Top10paisesCasos.png" width="650"> 
+ <img src="Figuras/Top10paisesCasos.png" width="500"> 
 </p>
 
 #### Com mais mortos
 
 <p align="center">
- <img src="Figuras/Top10paisesMortes.png" width="650"> 
+ <img src="Figuras/Top10paisesMortes.png" width="500"> 
 </p>
 
 #### Com mais recuperados
 <p align="center">
- <img src="Figuras/Top10paisesRecuperados.png" width="650"> 
+ <img src="Figuras/Top10paisesRecuperados.png" width="500"> 
 </p>
 
 #### Com mais casos hospitalizados
 
 <p align="center">
- <img src="Figuras/Top10paisesHospitalizados.png" width="650"> 
+ <img src="Figuras/Top10paisesHospitalizados.png" width="500"> 
 </p>
 
 #### Com mais casos nos cuidados intensivos
 
 <p align="center">
- <img src="Figuras/Top10paisesNosUCI.png" width="650"> 
+ <img src="Figuras/Top10paisesNosUCI.png" width="500"> 
 </p>
 
 #### Com mais testes
 <p align="center">
- <img src="Figuras/Top10paisesTestes.png" width="650"> 
+ <img src="Figuras/Top10paisesTestes.png" width="500"> 
 </p>
 
 ### Top 10 regiões na Austrália
