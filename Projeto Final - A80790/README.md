@@ -147,7 +147,7 @@ Total de confirmados e mortos em Espanha por data.
 
 ### Casos numa região de Espanha
 
-Gráfico com os confirmados e mortos para as Asturias, uma das sub-regiões de Espanha, até a data mais atual, de notar que os dados para as sub-regiões não são tão atuais como os dados no país todo, ou seja, enquanto que para Espanha no geral se obteve os dados até ao dis 29 de Maio, para a sub-região o mais recente é 21 de maio.
+Gráfico com os confirmados e mortos para as Asturias, uma das sub-regiões de Espanha, até a data mais atual, de notar que os dados para as sub-regiões não são tão atuais como os dados no país todo, ou seja, enquanto que para Espanha no geral se obteve os dados até ao dia 30 de Maio, para a sub-região o mais recente é 21 de maio.
 
 ![Asturias](Figuras/AsturiasConfirmados.png)
 
