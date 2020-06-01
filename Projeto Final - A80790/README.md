@@ -26,7 +26,7 @@ Gráfico com os confirmados e os mortos, de acordo com os países com mais confi
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
 <p align="center">
-<img src="Figuras/Confirmados_mortos_pie.png" align="center" width="650">
+<img src="Figuras/Confirmados_mortos_pie.png" align="center" width="500">
 </p>
 
 ![Confirmados vs mortos](Figuras/Total_Confirmados.png)
@@ -65,35 +65,35 @@ Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado,
 #### Com mais casos confirmados
 
 <p align="center">
- <img src="Figuras/Top10paisesCasos.png" width="750"> 
+ <img src="Figuras/Top10paisesCasos.png" width="650"> 
 </p>
 
 #### Com mais mortos
 
 <p align="center">
- <img src="Figuras/Top10paisesMortes.png" width="750"> 
+ <img src="Figuras/Top10paisesMortes.png" width="650"> 
 </p>
 
 #### Com mais recuperados
 <p align="center">
- <img src="Figuras/Top10paisesRecuperados.png" width="750"> 
+ <img src="Figuras/Top10paisesRecuperados.png" width="650"> 
 </p>
 
 #### Com mais casos hospitalizados
 
 <p align="center">
- <img src="Figuras/Top10paisesHospitalizados.png" width="750"> 
+ <img src="Figuras/Top10paisesHospitalizados.png" width="650"> 
 </p>
 
 #### Com mais casos nos cuidados intensivos
 
 <p align="center">
- <img src="Figuras/Top10paisesNosUCI.png" width="750"> 
+ <img src="Figuras/Top10paisesNosUCI.png" width="650"> 
 </p>
 
 #### Com mais testes
 <p align="center">
- <img src="Figuras/Top10paisesTestes.png" width="750"> 
+ <img src="Figuras/Top10paisesTestes.png" width="650"> 
 </p>
 
 ### Top 10 regiões na Austrália
