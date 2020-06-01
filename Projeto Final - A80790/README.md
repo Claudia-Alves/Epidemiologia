@@ -62,20 +62,39 @@ Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado,
 
 ### Top 10 países 
 
-| Com mais casos confirmados |Com mais mortos|
-|:--![CasosConfirmados](Figuras/Top10paisesCasos.png) --:| :--![Mortos](Figuras/Top10paisesMortes.png)--:| 
+#### Com mais casos confirmados
+
+<p align="center">
+ <img src="Figuras/Top10paisesCasos.png" width="750"> 
+</p>
+
+#### Com mais mortos
+
+<p align="center">
+ <img src="Figuras/Top10paisesMortes.png" width="750"> 
+</p>
 
 #### Com mais recuperados
-![Recuperados](Figuras/Top10paisesRecuperados.png)
+<p align="center">
+ <img src="Figuras/Top10paisesRecuperados.png" width="750"> 
+</p>
 
 #### Com mais casos hospitalizados
-![CasosHospitalizados](Figuras/Top10paisesHospitalizados.png)
+
+<p align="center">
+ <img src="Figuras/Top10paisesHospitalizados.png" width="750"> 
+</p>
 
 #### Com mais casos nos cuidados intensivos
-![CasosUCI](Figuras/Top10paisesNosUCI.png)
+
+<p align="center">
+ <img src="Figuras/Top10paisesNosUCI.png" width="750"> 
+</p>
 
 #### Com mais testes
-![Testes](Figuras/Top10paisesTestes.png)
+<p align="center">
+ <img src="Figuras/Top10paisesTestes.png" width="750"> 
+</p>
 
 ### Top 10 regiões na Austrália
 
