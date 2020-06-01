@@ -5,8 +5,10 @@ Visualização de casos de COVID-19 através de gráficos e mapas
 Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns países
 
 ##### Os datasets utilizados foram retirados dos seguintes repositórios do GitHub
-* link 1
-* link 2
+
+* https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+
+* https://github.com/open-covid-19/data
 
 
 ## Agrupamento dos dados por países
@@ -71,7 +73,7 @@ De notar, que a Austrália é um dos países com maior taxa de recuperação e m
 
 ## Estatísticas de top 10
 
-Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado, incluindo selecionar algumas colunas, agregar os dados, fazer somas e guardar esses dados em novos ficheiros csv. Estes ficheiros podem ser encontrados na pasta Dados.
+Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado, incluindo selecionar algumas colunas, agregar os dados, fazer somas e guardar esses dados em novos ficheiros csv que posteriormente foram abertos e ordenados de modo a escolher o top 10. Estes ficheiros podem ser encontrados na pasta Dados.
 
 ### Top 10 países 
 
