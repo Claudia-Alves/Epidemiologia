@@ -4,6 +4,10 @@ Visualização de casos de COVID-19 através de gráficos e mapas
 
 Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns países
 
+##### Os datasets utilizados foram retirados dos seguintes repositorios do GitHub
+* link 1
+* link 2
+
 
 ## Agrupamento dos dados por países
 
@@ -21,7 +25,9 @@ Gráfico com os confirmados e os mortos, de acordo com os países com mais confi
 </p>
 Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos os confirmados e mortos por país até a data.
 
-![Confirmados vs mortos pie](Figuras/Confirmados_mortos_pie.png)
+<p align="center">
+<img src="Figuras/Confirmados_mortos_pie.png" align="center" width="750">
+</p>
 
 ![Confirmados vs mortos](Figuras/Total_Confirmados.png)
 
@@ -40,7 +46,8 @@ Fez-se um gráfico relativo aos casos de COVID-19 por três categorias, leves, g
 
 Utilizaram-se os dados atuais de mortos e recuperados nos diferentes países para construir os mapas com a Taxa de Mortalidade no Mundo e com a Taxa de Recuperação no mundo. 
 
-#### Taxa de Mortalidade 
+#### Taxa de Mortalidade | Center Align |
+   
 
 ![TaxaMortalidade](Figuras/TaxaMortalidadeMundo.png)
 
