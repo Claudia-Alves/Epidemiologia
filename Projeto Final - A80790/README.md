@@ -160,7 +160,7 @@ Gráfico com os confirmados e mortos para as Asturias, uma das sub-regiões de E
 
 ### Heurística - modelagem exponencial
 
-Fez-se uso de uma heurística já existente e a encontrada é do dia 17 de março, portanto,  os gráficos seguintes são baseados nessa data.
+Fez-se uso de uma heurística já existente e a encontrada é do dia **17 de março**, portanto,  os gráficos seguintes são baseados nessa data.
 
 ![ItáliaH](Figuras/Italia_heuristica.png)
 
@@ -179,7 +179,7 @@ Fez-se uso de uma heurística já existente e a encontrada é do dia 17 de març
 
 ### Heurística - modelagem exponencial
 
-Fez-se uso de uma heurística já existente e a encontrada é do dia 18 de março, portanto,  os gráficos seguintes são baseados nessa data.
+Fez-se uso de uma heurística já existente e a encontrada é do dia **18 de março**, portanto,  os gráficos seguintes são baseados nessa data.
 
 ![CoreaSH](Figuras/CoreaSHeuristicaGomperstz.png)
 
