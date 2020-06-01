@@ -42,7 +42,7 @@ Gráficos com o total de confirmados vs mortos, para tal fez-se a soma de todos 
 Tendo em conta alguns dados de tempo médio até ser dada a alta a casos graves e críticos, obteve-se um gráfico com o Tempo médio de hospitalização para cada um deles. Observando a reta, dá aproximadamente um tempo médio de hospitalização 12 dias para casos graves e de 15 dias para casos hospitalizados.
 
 <p align="center">
-<img src="Figuras/TempoHospitalização.png" width="500">
+<img src="Figuras/TempoHospitalizacao.png" width="400"> 
 </p>
 
 Fez-se um gráfico relativo aos casos de COVID-19 por três categorias, leves, graves e críticos. 
