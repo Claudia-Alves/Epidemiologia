@@ -122,29 +122,29 @@ Para estas estatísticas de países ou regiões com mais casos fizeram-se altera
 
 #### Regiões com mais casos confirmados
 <p align="center">
- <img src="Figuras/Top10RegioesAustraliaCasos.png" width="500"> 
+ <img src="Figuras/TopRegioesAustraliaCasos.png" width="500"> 
 </p>
 
 
 #### Regiões com mais recuperados
 <p align="center">
- <img src="Figuras/Top10RegioesAustraliaRecuperados.png" width="500"> 
+ <img src="Figuras/TopRegioesAustraliaRecuperados.png" width="500"> 
 </p>
 
 
 #### Regiões com mais mortos
 <p align="center">
- <img src="Figuras/Top10RegioesAustraliaMortos.png" width="500"> 
+ <img src="Figuras/TopRegioesAustraliaMortos.png" width="500"> 
 </p>
 
 #### Regiões com mais testes
 <p align="center">
- <img src="Figuras/Top10RegioesAustraliaTestados.png" width="500"> 
+ <img src="Figuras/TopRegioesAustraliaTestados.png" width="500"> 
 </p>
 
 #### Regiões com mais casos hospitalizados
 <p align="center">
- <img src="Figuras/Top10RegioesAustraliaHospitalizados.png" width="500"> 
+ <img src="Figuras/TopRegioesAustraliaHospitalizados.png" width="500"> 
 </p>
 
 
