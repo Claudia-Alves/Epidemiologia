@@ -118,7 +118,7 @@ Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado,
  <img src="Figuras/Top10paisesTestes.png" width="500"> 
 </p>
 
-### Top 10 regiões na Austrália
+### Top regiões na Austrália
 
 #### Regiões com mais casos confirmados
 <p align="center">
