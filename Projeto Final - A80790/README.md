@@ -11,6 +11,13 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 * https://github.com/open-covid-19/data
 
 
+##### O repositório encontra-se dividido em diferentes pastas:
+* **COVID**: Dados usados na obtenção dos mapas;
+* **Dados**: Dados usados nas restantes estatísticas, incluindo os novos ficheiros criados;
+* **Figuras**: Imagens dos gráficos, estatísticas e mapas;
+* **Países**: Utilizando para a realização dos mapas;
+* O **notebook** utilizado é o ficheiro ![Projeto_Final.ypnb](https://github.com/Claudia-Alves/Epidemiologia/blob/master/Projeto%20Final%20-%20A80790/Projeto_final.ipynb).
+
 ## Agrupamento dos dados por países
 
 Obtiveram-se alguns gráficos com os casos por países, utilizou-se uma função para apenas contar os países com *mais de 100* casos.
@@ -62,7 +69,7 @@ Utilizaram-se os dados atuais de mortos e recuperados nos diferentes países par
 
 ![TaxaMortalidade](Figuras/TaxaMortalidadeMundo.png)
 
-Verifica-se que a Austrália e a Etiópia são dois dos países com menor taxe de mortalidade devido ao COVID-19.
+Verifica-se que a Austrália e a Etiópia são dois dos países com menor taxa de mortalidade devido ao COVID-19.
 
 #### Taxa de Recuperação 
 
@@ -156,7 +163,7 @@ Gráfico com os confirmados e mortos para as Asturias, uma das sub-regiões de E
 
 ## Casos em Itália
 
-### Total de casos Confirmados e mortos 
+### Total de casos Confirmados e Mortos 
 
 ![Itália](Figuras/Italia_total.png)
 
