@@ -78,9 +78,9 @@ Verifica-se que a Austrália e a Etiópia são dois dos países com menor taxa d
 De notar, que a Austrália é um dos países com maior taxa de recuperação e menor taxa de mortalidade.
 
 
-## Estatísticas de top 10
+## Estatísticas de países ou regiões com mais casos
 
-Para estas estatísticas de top 10 fizeram-se alterações ao dataset utilizado, incluindo selecionar algumas colunas, agregar os dados, fazer somas e guardar esses dados em novos ficheiros csv que posteriormente foram abertos e ordenados de modo a escolher o top 10. Estes ficheiros podem ser encontrados na pasta Dados.
+Para estas estatísticas de países ou regiões com mais casos fizeram-se alterações ao dataset utilizado, incluindo selecionar algumas colunas, agregar os dados, fazer somas e guardar esses dados em novos ficheiros csv que posteriormente foram abertos e ordenados de modo a escolher o top 10. Estes ficheiros podem ser encontrados na pasta Dados.
 
 ### Top 10 países 
 
