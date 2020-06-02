@@ -15,7 +15,7 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 * **COVID**: Dados usados na obtenção dos mapas;
 * **Dados**: Dados usados nas restantes estatísticas, incluindo os novos ficheiros criados;
 * **Figuras**: Imagens dos gráficos, estatísticas e mapas;
-* **Países**: Utilizando para a realização dos mapas;
+* **Países**: Utilizado para a realização dos mapas;
 * O **notebook** é o ficheiro [Projeto_Final.ypnb](https://github.com/Claudia-Alves/Epidemiologia/blob/master/Projeto%20Final%20-%20A80790/Projeto_final.ipynb).
 
 ## Agrupamento dos dados por países
