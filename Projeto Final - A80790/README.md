@@ -1,4 +1,4 @@
-# *Projeto Final da aluna A80790 para a UC de Sistemas de Informação Geográfica*
+# *Projeto Final da aluna Cláudia Alves (A80790) para a UC de Sistemas de Informação Geográfica*
 
 Visualização de casos de COVID-19 através de gráficos e mapas
 
@@ -12,10 +12,10 @@ Neste notebook estão alguns gráficos relativos aos casos de COVID-19 em alguns
 
 
 ##### O repositório encontra-se dividido em diferentes pastas:
-* **COVID**: Dados usados na obtenção dos mapas;
-* **Dados**: Dados usados nas restantes estatísticas, incluindo os novos ficheiros criados;
-* **Figuras**: Imagens dos gráficos, estatísticas e mapas;
-* **Países**: Utilizado para a realização dos mapas;
+* **[COVID](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/COVID)**: Dados usados na obtenção dos mapas;
+* **[Dados](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Dados)**: Dados usados nas restantes estatísticas, incluindo os novos ficheiros criados;
+* **[Figuras](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Figuras)**: Imagens dos gráficos, estatísticas e mapas;
+* **[Países](https://github.com/Claudia-Alves/Epidemiologia/tree/master/Projeto%20Final%20-%20A80790/Paises)**: Utilizado para a realização dos mapas;
 * O **notebook** é o ficheiro [Projeto_Final.ypnb](https://github.com/Claudia-Alves/Epidemiologia/blob/master/Projeto%20Final%20-%20A80790/Projeto_final.ipynb).
 
 ## Agrupamento dos dados por países
